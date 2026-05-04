@@ -91,6 +91,31 @@ KALI LINUX:
 
 <img width="613" height="172" alt="Captura desde 2026-04-29 19-12-57" src="https://github.com/user-attachments/assets/9e850057-a67e-4dd8-8009-b9bef587b9fa" />
 
+# # 🎨 CREACIÓN DE MV Rocky Linux CON SU RESPECTIVA CREACIÓN DE RED PARA LA COMUNICACION CON EL SWITCH Y ROUTER Y LA  ASIGNACIÓN  DE IP ESTATICA:
+
+<img width="1919" height="1037" alt="image" src="https://github.com/user-attachments/assets/e0d55de9-0465-4bf4-ade7-ff857781dc12" />
+
+# Creacion de la IP en Rocky
+<img width="660" height="499" alt="Captura de pantalla 2026-04-22 184907" src="https://github.com/user-attachments/assets/f8de615f-b49c-4218-99d2-bd50283ec542" />
+<img width="651" height="137" alt="image" src="https://github.com/user-attachments/assets/ccc256e2-0ada-40f3-b607-074b55f81dfb" />
+
+Se observa que la IP queda configurada en Rocky
+<img width="657" height="452" alt="image" src="https://github.com/user-attachments/assets/154ffa10-5a97-4e6b-a0a6-0d9f97ad8102" />
+
+
+# Creación de contendor de Fedora dentro de Rocky Linux 
+<img width="679" height="517" alt="image" src="https://github.com/user-attachments/assets/af0d9319-89cd-477a-bf9d-b8fb564085dd" />
+
+Se observa que, aparece root@79f101acddf2, esto indica que nos encontramos dentro de Fedora.
+
+# Nombre del contenedor 
+<img width="1899" height="407" alt="image" src="https://github.com/user-attachments/assets/b12e572d-dec3-4cbd-843b-c56ec0487967" />
+
+# Configuración de IP en Fedora:
+<img width="1775" height="578" alt="image" src="https://github.com/user-attachments/assets/1e8bcc31-1286-4e37-b935-14737a336f02" />
+
+
+
 
 
 
